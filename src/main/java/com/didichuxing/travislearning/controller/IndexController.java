@@ -5,4 +5,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class IndexController {
     String chen;
+    String chen2;
+
 }
